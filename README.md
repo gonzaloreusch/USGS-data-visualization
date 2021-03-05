@@ -7,4 +7,4 @@ Welcome to the United States Geological Survey, or USGS for short! The USGS is r
 The USGS is interested in building a new set of tools that will allow them visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding..) on issues facing our planet.
 
 
-![ring-volcanoes-arcs-tectonic-plate-boundaries-Pacific jpg](https://user-images.githubusercontent.com/70727613/109673829-065dd900-7b3c-11eb-9fdd-fded0e003429.gif)
+<img width="1792" alt="Screen Shot 2021-03-04 at 10 37 07 PM" src="https://user-images.githubusercontent.com/70727613/110067945-4c808b80-7d3a-11eb-8b27-83518b07b42f.png">
